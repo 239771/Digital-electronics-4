@@ -30,7 +30,7 @@ You can see below our block diagram:
 
 ![Main Diagram](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart2.png)
 
-You can see below our state diagram:
+You can see below our flowchart diagram for each function in the code:
 
 ![Diagram2](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart1.png)
 
